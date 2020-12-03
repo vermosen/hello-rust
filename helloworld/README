@@ -1,4 +1,0 @@
-# to compile:
-# rustc hello-rust.rs
-# then run as
-# ./hello-rust

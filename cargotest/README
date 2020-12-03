@@ -1,6 +1,0 @@
-# to generate:
-# cargo new cargo-test --bin
-# cd cargo-test
-# edit src/main.rs
-# cargo build
-# cargo run

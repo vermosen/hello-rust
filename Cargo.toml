@@ -1,0 +1,11 @@
+[package]
+name = "hello-rust"
+version = "0.0.1"
+authors = ["Jean-Mathieu Vermosen"]
+autobins = false
+
+[[bin]]
+name = "helloworld"
+
+[[bin]]
+name = "cmdargs"
