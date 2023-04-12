@@ -3,9 +3,14 @@ name = "hello-rust"
 version = "0.0.1"
 authors = ["Jean-Mathieu Vermosen"]
 autobins = false
+default-run = "helloworld"
+
+[dependencies]
+clap = { version = "4.0", features = ["derive"] }
 
 [[bin]]
 name = "helloworld"
 
 [[bin]]
 name = "cmdargs"
+
